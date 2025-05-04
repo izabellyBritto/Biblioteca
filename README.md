@@ -44,5 +44,3 @@ O projeto é estruturado de forma a separar claramente as diferentes partes da a
 5. Utilize as funcionalidades fornecidas pela aplicação para gerenciar os empréstimos de livros.
 
 ---
-
-Este projeto oferece uma maneira eficiente e organizada de gerenciar empréstimos de livros, facilitando o controle e a manutenção dos dados. Se precisar de mais informações ou assistência sobre o projeto, não hesite em entrar em contato!
